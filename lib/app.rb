@@ -5,7 +5,7 @@ module App
   end
 
   class Person
-    def exists?
+    def exist?
       true
     end
   end
